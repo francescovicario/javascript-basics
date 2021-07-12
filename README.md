@@ -4,7 +4,7 @@
 
 ![](IMG/counter-javascript-basics.gif)
 
-[Demo]("https://francescovicario-javascriptbasics.000webhostapp.com/")
+[Demo](https://francescovicario-javascriptbasics.000webhostapp.com/)
 
 Questa applicazione funge da counter.
 
